@@ -2,8 +2,8 @@
 
 3/5: I_STOKES maps pushed to origin ~3:06PM. Also included is the notebook used to isolate I_STOKES data from the other maps and the notebook used to maps the data.
 
-3/10:I_STOKES printing notebook updated to use URLs for accesibility. Checkpoint of old notebook kept.
+3/10:I_STOKES printing notebook updated to use URLs for accessibility. Checkpoint of old notebook kept.
 
-4/6: Map reconstruction notebook pushed to origin. The notebook reconstructs I_STOKES maps from Planck R3 by coverting them into spherical harmonic space and recreating the map using alms. The notebook then maps original-reconstructed.
+4/6: Map reconstruction notebook pushed to origin. The notebook reconstructs I_STOKES maps from Planck R3 by converting them into spherical harmonic space and recreating the map using alms. The notebook then maps original-reconstructed.
 
 Last updated: 10:54PM 4/6/23
